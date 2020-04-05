@@ -22,6 +22,7 @@ export default createGlobalStyle`
   }
 
   body {
+    background: #7d40e7 0% 0% no-repeat padding-box;
     -webkit-font-smoothing: antialiased;
   }
 
@@ -38,6 +39,8 @@ export default createGlobalStyle`
   }
 
   button {
+    text-transform: uppercase;
+    border: none;
     cursor: pointer;
   }
 
