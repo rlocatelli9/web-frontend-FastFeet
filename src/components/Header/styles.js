@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
   background: #ffffff 0% 0% no-repeat padding-box;
   border: 1px solid #ddd;
-  min-width: 860px;
+  min-width: 900px;
   padding: 0 30px;
 `;
 
